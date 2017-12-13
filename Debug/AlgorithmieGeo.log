@@ -1,0 +1,9 @@
+﻿  main.cpp
+  Polygon.cpp
+c:\users\ismet\source\repos\algorithmiegeo\polygon.cpp(61): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\ismet\source\repos\algorithmiegeo\polygon.cpp(70): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\ismet\source\repos\algorithmiegeo\polygon.cpp(76): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\ismet\source\repos\algorithmiegeo\polygon.cpp(110): warning C4018: '<' : incompatibilité signed/unsigned
+  Génération de code en cours...
+  AlgorithmieGeo.vcxproj -> C:\Users\ismet\source\repos\AlgorithmieGeo\Debug\AlgorithmieGeo.exe
+  AlgorithmieGeo.vcxproj -> C:\Users\ismet\source\repos\AlgorithmieGeo\Debug\AlgorithmieGeo.pdb (Partial PDB)
